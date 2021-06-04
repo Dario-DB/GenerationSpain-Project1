@@ -2,9 +2,9 @@
 Working group project (4): CRUD console application for backoffice management of a movie repository written in Java
 
 In this project we programmed a films managment application and we covered the following topics.
- -Java POO (encapsulation, inheritance, abstraction)
- -Basic testing with JUnit
- -exception handling
- -I/O (reading, writting) files.
- -JavaDoc
- -multilayer programming (data, model, services, control)
+1. Java POO (encapsulation, inheritance, abstraction)
+2. Basic testing with JUnit
+3. exception handling
+4. I/O (reading, writting) files.
+5. JavaDoc
+6. multilayer programming (data, model, services, control)
